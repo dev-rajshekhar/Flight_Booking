@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/NeutrafaceText-Bold.ttf",
+      "sha1": "9fadd674ac43484f1964ad0526304bd8bb9cb3aa"
+    },
+    {
+      "path": "assets/fonts/NeutrafaceText-Book.ttf",
+      "sha1": "a99cefd32af9730d883156b1f6e1a81c1c52c1da"
+    },
+    {
+      "path": "assets/fonts/NeutrafaceText-Demi.ttf",
+      "sha1": "f6144ff7f9f179ffa0f4f0c3825ae6d8d6c3644b"
+    },
+    {
+      "path": "assets/fonts/NeutrafaceText-Light.ttf",
+      "sha1": "fc773ed98af678265ab2cbd82b1ff0551384aa2c"
+    }
+  ]
+}
